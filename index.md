@@ -22,5 +22,4 @@ SQL and Power BI analysis of 254 hotels, 71 attractions and 137K reviews.
 
 ## Get in touch
 
-Mobile: +91-8619162417
 Email: karamveersingh0804@gmail.com
