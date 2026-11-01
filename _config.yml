@@ -17,14 +17,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : ""Karamveer Singh | Data Analyst""
+title                    : "Karamveer Singh | Data Analyst"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Karamveer Singh"
 description              : "SQL Server & Power BI projects, analysis and write-ups."
-url                      : "https://kar4mveer.github.io"# the base hostname & protocol for your site e.g.
+url                      : "https://kar4mveer.github.io" # the base hostname & protocol for your site e.g.
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "kar4mveer/kar4mveer.github.io"# GitHub username/repo-name e.g.
+repository               : "kar4mveer/kar4mveer.github.io" # GitHub username/repo-name e.g.
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Karamveer Singh"
-  avatar           : "/assets/images/bio-photo.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Aspiring Data Analyst skilled in SQL, Python, and Power BI. Turning raw data into clear business insights."
   location         : "Jaipur, Rajasthan, India"
   email            :
@@ -124,11 +124,10 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
       url: "mailto:karamveersingh0804@gmail.com"
-      url: "mailto:karamveersingh0804@outlook.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kar4mveer"
-    - label: "Instagram"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/kar4mveer/"
     - label: "Website"
@@ -137,12 +136,7 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
       url: "https://x.com/karamveer0804"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-square-facebook"
-      # url: "https://facebook.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
