@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Karamveer Singh"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aspiring Data Analyst skilled in SQL, Python, and Power BI. Turning raw data into clear business insights."
+  bio              : "Aspiring Data Analyst skilled in SQL, Python, Power BI and Excel. Turning raw data into clear business insights."
   location         : "Jaipur, Rajasthan, India"
   email            :
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
